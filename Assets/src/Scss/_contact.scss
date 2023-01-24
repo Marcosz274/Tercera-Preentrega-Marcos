@@ -1,0 +1,25 @@
+.header-proyect-info-3{
+    display: flex;
+    height: 25%;
+    padding: 25px;
+    background-color: rgba(45, 189, 8, 0.678);
+}
+.header-proyect-info-3 > i {
+    display: flex;
+    margin: 5px;
+    padding: 10px;
+    justify-content: center;
+    font-size: 100px;
+}
+.header-proyect-info-sub-1{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 25px;
+}
+.header-proyect-form{
+    color: white;
+}
+.form-control{
+    width: 600px;
+    margin: 20px auto;
+}

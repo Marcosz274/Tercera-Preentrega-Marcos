@@ -1,0 +1,33 @@
+.navbar-contact{
+    background-color: rgba(202, 98, 0, 0.678);
+    border: 1px;
+    border-color:black;
+    border-style: solid;
+    display: flex;
+    justify-content: end;
+}
+.navbar-contact > ul {
+    display: flex;
+    position: relative;
+    list-style-type: none;
+    flex-direction: row;
+    align-content: stretch;
+    justify-content: end;
+    align-items: center;
+    margin-right: 175px;
+}
+.navbar-contact > ul > i{
+    display: flex;
+    margin: 5px;
+    padding: 10px;
+    justify-content: center;
+    font-size: 100px;
+}
+.navbar-contact > ul > li > a {
+    display: flex;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    padding: 20px;
+    position: relative;
+    }
